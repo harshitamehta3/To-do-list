@@ -70,8 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Testing Guidance
+
 Adding Tasks: Enter a task in the input field and click "Add Task". Ensure the task appears in the list.
+
 Removing Tasks: Click the "Remove" button next to a task to remove it from the list.
+
 Marking Completion: Click on a task text to toggle its completion state. Completed tasks should have a strikethrough style.
+
 Filtering Tasks: Use the filter dropdown to display all, completed, or pending tasks.
+
 Sorting Tasks: Use the sort dropdown to change the order of tasks alphabetically.
